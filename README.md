@@ -1,4 +1,4 @@
 # MLprojects
 
-1. Life Expectancy Prediction- EDA & Linear Regression with Sklearn & LabelEncoder
+1. Life Expectancy- EDA & Linear Regression with Sklearn & LabelEncoder <br>
    Dataset: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
