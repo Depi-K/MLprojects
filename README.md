@@ -5,4 +5,6 @@
 2. Gold Price - Random Forest & Linear & XGB Regressor <br>
    Dataset: https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 3. EDA & Linear Regression on Medical Insurance Cost Prediction <br>
-   Dataset: https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data   
+   Dataset: https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data   <br>
+4. Hotel Booking Cancellation - Linear Regression, K nearest neighbors & Random Forest Classifier
+   Dataset: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
