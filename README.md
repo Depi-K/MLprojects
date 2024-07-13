@@ -8,3 +8,7 @@
    Dataset: https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data   
 4. Hotel Booking Cancellation - Linear Regression, K nearest neighbors & Random Forest Classifier <br>
    Dataset: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
+5. Flight Prediction - Random Forest Regressor, Hyperparameter Tuning with RandomizedSearchCV <br>
+   Dataset: https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data
+   
+
